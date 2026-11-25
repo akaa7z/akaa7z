@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Arnau Puig (akaa7z) 👋</h1>
+<p align="center">
+  <strong>Software Developer • Incoming Computer Science Student • Mountain & Trail Runner</strong>
+</p>
 
-<!--
-**akaa7z/akaa7z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Developer building applications across **mobile** and **backend** ecosystems.
+- 🎓 Starting my **Computer Science Engineering** degree next year to deepen my foundations in algorithms, software architecture, and systems.
+- 🌱 Currently sharpening my skills in **Kotlin**, **C#/.NET**, and containerized workflows with **Docker**.
+- 🏔️ When I'm away from the keyboard, you'll find me out in the mountains—especially **trail running**.
